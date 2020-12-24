@@ -1,0 +1,7 @@
+This line doesn't include anything.
+
+Title:  <title><!--#include file="title.html" --></title>
+
+After the inclusion, and the footer:
+
+<!--#include file="footer.html" -->
